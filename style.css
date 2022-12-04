@@ -1,0 +1,107 @@
+body
+{
+  color: white;
+  background-image: url('background.jpeg');
+  background-size: cover;
+  color: black;
+  font-family:fantasy;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+  color: crimson;
+}
+.emoji
+{
+  font-size:48px;
+}
+
+.heading{
+  font-size: 30px;
+  border-radius: 10px;
+  letter-spacing: 5px;
+}        
+.btn-grad {
+  background-image: linear-gradient(to right, #114357 0%, #F29492  51%, #114357  100%);
+  margin: 10px;
+  padding: 15px 45px;
+  text-align: center;
+  text-transform: uppercase;
+  transition: 0.5s;
+  background-size: 200% auto;
+  color: white;            
+  box-shadow: 0 0 20px #eee;
+  border-radius: 10px;
+  display: block;
+}
+
+.btn-grad:hover {
+  background-position: right center; /* change the direction of the change here */
+  color: #fff;
+  text-decoration: none;
+}
+
+         
+.btn-grad2 {
+  background-image: linear-gradient(to right, #50C9C3 0%, #96DEDA  51%, #50C9C3  100%);
+  margin: 10px;
+  padding: 15px 45px;
+  text-align: center;
+  text-transform: uppercase;
+  transition: 0.5s;
+  background-size: 200% auto;
+  color: white;            
+  box-shadow: 0 0 20px #eee;
+  border-radius: 10px;
+  display: block;
+}
+
+.btn-grad2:hover {
+  background-position: right center; /* change the direction of the change here */
+  color: #fff;
+  text-decoration: none;
+}
+
+         
+.btn-grad3 {
+  background-image: linear-gradient(to right, #EC6F66 0%, #F3A183  51%, #EC6F66  100%);
+  margin: 10px;
+  padding: 15px 45px;
+  text-align: center;
+  text-transform: uppercase;
+  transition: 0.5s;
+  background-size: 200% auto;
+  color: white;            
+  box-shadow: 0 0 20px #eee;
+  border-radius: 10px;
+  display: block;
+}
+
+.btn-grad3:hover {
+  background-position: right center; /* change the direction of the change here */
+  color: #fff;
+  text-decoration: none;
+}
+
+label {
+  background-color: tomato;
+  padding: 7px;
+  border-radius: 10px;
+}
+
+
+
